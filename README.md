@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SabeeirSharrma!
+# 👋 Hi, I'm Sabeeir Sharrma!
 
 > Turning caffeine into energy, I am a powerhouse running on coffee
 
