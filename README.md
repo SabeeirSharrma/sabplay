@@ -15,6 +15,9 @@
 ### [Basic-py-home-server](https://github.com/SabeeirSharrma/Basic-py-home-server)
 A lightweight home server written in Python—explore automation, fun, and learning!
 
+### [AnonForum](https://github.com/SabeeirSharrma/AnonForum)
+An anonymous self-hosted chatting forum where new threads can be created by anonymous users
+
 ## 📣 Support Me
 If you like my work, consider buying me a coffee!  
 [![ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5f5f?style=flat-square&logo=ko-fi)](https://ko-fi.com/sabeeirsharrma)
